@@ -30,7 +30,7 @@ Hello! I'm Swasthik K, an aspiring software developer passionate about building 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 </a>
 ## GitHub Statistics
-![Swasthik K's GitHub Stats](https://github-readme-stats.vercel.app/api?username=swasthikk&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=swasthikk&show_icons=true&theme=radical)
 
 ## Contributions and Feedback
 Contributions and feedback are welcome! Feel free to open issues, submit pull requests, or reach out to me via email.
