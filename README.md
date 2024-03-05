@@ -14,10 +14,10 @@ Hello! I'm Swasthik K, an aspiring software developer passionate about building 
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,figma,ps,jest,ruby,rails" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,figma," />
     </a>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,githubactions,php,java,react,redux,postgres,postman,tailwind,nodejs" />
+      
     </a>
   </p>
 </div>
