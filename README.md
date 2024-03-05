@@ -39,6 +39,4 @@ Contributions and feedback are welcome! Feel free to open issues, submit pull re
 ## Connect with Me
 - GitHub: [swasthikk](https://github.com/swasthikk)
 - LinkedIn: [Your LinkedIn Profile](link_to_your_linkedin_profile)
-- Email: your.email@example.com
-
-Happy coding! 😊
+- Email: swaasthikk@gmail.com
