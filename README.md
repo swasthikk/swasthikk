@@ -1,6 +1,6 @@
 # Swasthik K - Software Developer
 
-![Tech Stack](link_to_tech_stack_logo)
+
 
 Hello! I'm Swasthik K, an aspiring software developer passionate about building innovative solutions and exploring new technologies.
 
