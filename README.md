@@ -26,9 +26,7 @@ Hello! I'm Swasthik K, an aspiring software developer passionate about building 
 
   </a>
 </p>
-<a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
-</a>
+
 ## GitHub Statistics
 (https://github-readme-stats.vercel.app/api?username=swasthikk&show_icons=true&theme=radical)
 
