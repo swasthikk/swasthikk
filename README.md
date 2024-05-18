@@ -35,7 +35,7 @@ Contributions and feedback are welcome! Feel free to open issues, submit pull re
 
 ## Connect with Me
 
-[Email](swaasthikk@gmail.com)
+Email: swaasthikk@gmail.com
 
 [GitHub](https://github.com/swasthikk)
 
