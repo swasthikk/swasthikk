@@ -34,10 +34,11 @@ Hello! I'm Swasthik K, an aspiring software developer passionate about building 
 Contributions and feedback are welcome! Feel free to open issues, submit pull requests, or reach out to me via email.
 
 ## Connect with Me
+
+ Email: swaasthikk@gmail.com
+
 -[GitHub](https://github.com/swasthikk)
 
 -[LinkedIn](https://www.linkedin.com/in/swasthik-k-046719244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-- Email: swaasthikk@gmail.com
 
 -[X](https://x.com/Swasthi31403605?t=kNwRHtfhhCFxckbKX5vP0A&s=09)
