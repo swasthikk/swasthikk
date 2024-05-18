@@ -14,7 +14,7 @@ Hello! I'm Swasthik K, an aspiring software developer passionate about building 
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,figma," />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,figma,git" />
     </a>
     <a href="https://skillicons.dev">
       
@@ -35,5 +35,5 @@ Contributions and feedback are welcome! Feel free to open issues, submit pull re
 
 ## Connect with Me
 - GitHub: [swasthikk](https://github.com/swasthikk)
-- LinkedIn: [Your LinkedIn Profile](link_to_your_linkedin_profile)
+- LinkedIn: [LinkedIn ](https://www.linkedin.com/in/swasthik-k-046719244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: swaasthikk@gmail.com
