@@ -35,10 +35,10 @@ Contributions and feedback are welcome! Feel free to open issues, submit pull re
 
 ## Connect with Me
 
- Email: swaasthikk@gmail.com
+[Email](swaasthikk@gmail.com)
 
--[GitHub](https://github.com/swasthikk)
+[GitHub](https://github.com/swasthikk)
 
--[LinkedIn](https://www.linkedin.com/in/swasthik-k-046719244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[LinkedIn](https://www.linkedin.com/in/swasthik-k-046719244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
--[X](https://x.com/Swasthi31403605?t=kNwRHtfhhCFxckbKX5vP0A&s=09)
+[X](https://x.com/Swasthi31403605?t=kNwRHtfhhCFxckbKX5vP0A&s=09)
