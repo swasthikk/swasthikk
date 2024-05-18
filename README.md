@@ -14,7 +14,7 @@ Hello! I'm Swasthik K, an aspiring software developer passionate about building 
 <div> 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,figma,git,Ruby" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,figma,git" />
     </a>
     <a href="https://skillicons.dev">
       
